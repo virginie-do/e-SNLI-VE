@@ -1,4 +1,4 @@
-# e-SNLI-VE-2.0: Corrected Visual Textual Entailment with Natural Language Explanations 
+# e-SNLI-VE-2.0
 
 This repository contains the dataset for our paper: 
 
