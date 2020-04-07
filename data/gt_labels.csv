@@ -1,0 +1,351 @@
+pairID,image_link,sentence2,label
+7631372276.jpg#4r2e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/7631372276.jpg,the men look at clothes,entailment
+7631372276.jpg#2r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/7631372276.jpg,There is a man leaving a shop,contradiction
+4297523137.jpg#3r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4297523137.jpg,a child using a machine,entailment
+30605277.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/30605277.jpg,There are two females.,entailment
+4653503824.jpg#2r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4653503824.jpg,Two men sit on a dock and check their cellphones.,entailment
+2765029348.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2765029348.jpg,A man on a bike does a backflip.,entailment
+4610461009.jpg#3r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4610461009.jpg,A woman walks with her basket.,entailment
+1102763701.jpg#3r4e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1102763701.jpg,A group of people are outside at an event.,entailment
+1016887272.jpg#3r4n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1016887272.jpg,A group of people scaling a cliff.,entailment
+316298162.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/316298162.jpg,A group of businessman walking down the road to save petrol charge.,neutral
+3297272270.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3297272270.jpg,they are dressed like ballerinas,entailment
+146019208.jpg#0r2n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/146019208.jpg,Two men cook pancakes in the mountains.,contradiction
+20702864.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/20702864.jpg,Old men are digging for treasure.,contradiction
+5220880759.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/5220880759.jpg,Someone is getting ready for work.,neutral
+4145119743.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4145119743.jpg,The line is long.,neutral
+6848277313.jpg#4r2n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/6848277313.jpg,the man is a farmer,contradiction
+4486484038.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4486484038.jpg,A woman crosses a signal for school children.,contradiction
+4975536758.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4975536758.jpg,The boy is scared.,contradiction
+3727740053.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3727740053.jpg,Two men are wearing their martial arts uniform.,entailment
+3727740053.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3727740053.jpg,There are people kicking each other because they are mad,contradiction
+3475111806.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3475111806.jpg,The crowd is waiting for the release of a product.,neutral
+6952893010.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/6952893010.jpg,The boats are about to sink.,contradiction
+3595412126.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3595412126.jpg,Two girls are picking flowers by a tree.,contradiction
+4287633714.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4287633714.jpg,Two bikers walk together,neutral
+3996889070.jpg#0r5n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3996889070.jpg,a girl plays with her pet,neutral
+2058124718.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2058124718.jpg,Two dogs are playing together with their duck toy.,neutral
+2589156742.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2589156742.jpg,A baseball player watches the game from the dugout.,contradiction
+530170010.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/530170010.jpg,The man is happy that it is a nice day outside.,neutral
+2834103050.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2834103050.jpg,The seller stares as the fashion model passes on the shore.,contradiction
+2468906010.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2468906010.jpg,A woman hits the ground while trying to return a spike during a game of volleyball.,neutral
+3354474353.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3354474353.jpg,Two dogs have just caught a fish.,entailment
+1424775129.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1424775129.jpg,A little boy is by a train,contradiction
+2910885196.jpg#0r2n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2910885196.jpg,A family is celebrating a birthday,neutral
+4885036157.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4885036157.jpg,A couple is embracing near a blue graffited pillar.,entailment
+5901845159.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/5901845159.jpg,A boy giving money to a painted man.,contradiction
+2584487952.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2584487952.jpg,The dog chases a cat in the grass.,contradiction
+128395402.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/128395402.jpg,The woman is not enjoying her bike ride.,neutral
+2860432302.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2860432302.jpg,A man just caught some trout.,neutral
+2256447557.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2256447557.jpg,A crowd on a sunny day.,contradiction
+3456579559.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3456579559.jpg,The skateboarder is in a competition.,neutral
+4857558207.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4857558207.jpg,A new mother embracing her baby boy for the first time.,entailment
+470887785.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/470887785.jpg,The woman is Armenian.,neutral
+62057380.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/62057380.jpg,Two sad women run down the sidewalk at night.,neutral
+3761067976.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3761067976.jpg,A girl is pointing at a balloon in the air.,neutral
+129662899.jpg#0r4n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/129662899.jpg,A man is visiting the world's largest thread and spool and wants his picture taken.,contradiction
+1012150929.jpg#1r4n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1012150929.jpg,The boy is playing Mario in a restaurant.,contradiction
+269361490.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/269361490.jpg,Two girls and two guys walking down the busy street.,contradiction
+179778822.jpg#0r5n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/179778822.jpg,A girl's mother watches as she stares into a mirror.,entailment
+3955157194.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3955157194.jpg,A girl in a white t-shirt plays on an excavator.,entailment
+7003919692.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/7003919692.jpg,The  marketplace is hot,entailment
+3063054647.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3063054647.jpg,Two people are walking along a trail.,entailment
+1483574454.jpg#2r3n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1483574454.jpg,The shop has many varities of bicycles.,neutral
+2782480767.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2782480767.jpg,The girl is 6 years old,neutral
+3701699584.jpg#3r4n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3701699584.jpg,the man has a tennis racket,entailment
+618771382.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/618771382.jpg,Sisters hug in front of their country's flag.,neutral
+3019776218.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3019776218.jpg,boy calls mom,neutral
+489134459.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/489134459.jpg,Two siblings are outside.,neutral
+3344040145.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3344040145.jpg,The man is yelling for his friend to come over.,neutral
+4478063110.jpg#4r2n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4478063110.jpg,The man is playing with a friend.,neutral
+617782839.jpg#4r5n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/617782839.jpg,The man is an accomplished archer.,neutral
+1286805224.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1286805224.jpg,The girl is smiling because her mom went to get her somethign to eat.,neutral
+450688968.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/450688968.jpg,A star player is getting ready to shoot a soccer ball at an empty net.,neutral
+5925544950.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/5925544950.jpg,The woman is happy.,neutral
+95795877.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/95795877.jpg,Man just got done with a 15 hour shift.,neutral
+4668948309.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4668948309.jpg,People at a party looking over a balcony.,neutral
+2209751.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2209751.jpg,A crew is filming for a car show,neutral
+2728607980.jpg#4r4n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2728607980.jpg,Hundreds of happy people are gathered,neutral
+3189464563.jpg#0r2n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3189464563.jpg,A woman with big earrings is holding a prize ticket with a piece of chocolate cake in front of her because she has won first prize.,neutral
+154653766.jpg#1r2n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/154653766.jpg,The teenagers are talking to one another.,neutral
+19469520.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/19469520.jpg,The people are in a competition to win money.,neutral
+1546632452.jpg#0r2n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1546632452.jpg,A boy bouncing on a trampoline until it is time for dinner.,neutral
+4631840705.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4631840705.jpg,A man climbs a rock wall during a timed event.,neutral
+4016499639.jpg#4r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4016499639.jpg,People quickly get their orders at a street vendor stand.,neutral
+4948865477.jpg#0r2n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4948865477.jpg,A man is fishing in order to get some meat for dinner,neutral
+4948865477.jpg#0r4n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4948865477.jpg,A man falls asleep fishing with friends.,neutral
+1505686764.jpg#2r4n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1505686764.jpg,The man is about to go swimming in the stream.,neutral
+4569102627.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4569102627.jpg,cups are good,neutral
+230486268.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/230486268.jpg,The boy is having fun.,neutral
+582788646.jpg#3r2n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/582788646.jpg,A boy is at the beach with his mother and father,neutral
+141841337.jpg#0r3n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/141841337.jpg,A crowd watches a man put his foot on top of his head.,neutral
+1625306051.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1625306051.jpg,Two men jump for joy.,neutral
+91875542.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/91875542.jpg,The elderly woman volunteers to use the antique cash register.,neutral
+4803984649.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4803984649.jpg,A tall human standing,neutral
+3376741717.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3376741717.jpg,A man in a blue janitor uniform is cleaning the floor.,neutral
+4719086173.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4719086173.jpg,Firefighters check the area.,entailment
+65845718.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/65845718.jpg,A woman is resting at poolside.,entailment
+479545053.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/479545053.jpg,A male is reading while his wife is looking over his shoulder.,contradiction
+536537638.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/536537638.jpg,a well dressed group wait together,neutral
+1011572216.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1011572216.jpg,A newlywed couple is walking down a pathway next to an old brick building.,entailment
+1580159719.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1580159719.jpg,Two street musicians are playing jazz for a crowd.,neutral
+3259229498.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3259229498.jpg,Someone is performing for others.,entailment
+7129695767.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/7129695767.jpg,A man is testing his limits while he climbs his first mountain.,neutral
+3518822380.jpg#1r3e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3518822380.jpg,3 people stand in front of a blue wall.,entailment
+170719224.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/170719224.jpg,People are outside.,entailment
+2653617835.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2653617835.jpg,A fellow holds a door.,entailment
+4811454472.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4811454472.jpg,Some 6 Peoples went inside the museum,contradiction
+1021442086.jpg#0r2c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1021442086.jpg,A man is driving while focusing intently on the road.,contradiction
+1021442086.jpg#4r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1021442086.jpg,THe man is looking at his shirt.,contradiction
+6524893225.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/6524893225.jpg,The people are outdoors.,entailment
+6303184938.jpg#0r4c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/6303184938.jpg,There is a person who is reading in a library.,contradiction
+109770830.jpg#0r2c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/109770830.jpg,a woman napping,contradiction
+1371076688.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1371076688.jpg,A child is praying in bed.,contradiction
+3687250043.jpg#0r2c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3687250043.jpg,Four kids are eating candy in the middle of a field.,contradiction
+4887607422.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4887607422.jpg,The cat is white.,entailment
+3688364166.jpg#1r2c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3688364166.jpg,A man is painting.,contradiction
+2369452202.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2369452202.jpg,The people are outdoors.,entailment
+4481546417.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4481546417.jpg,Group of people are outside,entailment
+7757245162.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/7757245162.jpg,A person playing a game.,entailment
+4410308811.jpg#1r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4410308811.jpg,Some people are in an office.,entailment
+4410308811.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4410308811.jpg,a man listens to a speech,entailment
+2687891662.jpg#1r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2687891662.jpg,Parents are taking their kids scuba diving.,contradiction
+2687891662.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2687891662.jpg,Two blond woman with small children wait the turn for a roller coaster ride.,contradiction
+10287332.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/10287332.jpg,Two men are on a roof.,entailment
+3722433576.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3722433576.jpg,Two males are standing near a race car.,entailment
+543291644.jpg#3r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/543291644.jpg,The woman is dancing in front of the band.,entailment
+543291644.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/543291644.jpg,There is a guitar in the photo.,entailment
+4894872733.jpg#4r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4894872733.jpg,The road is busy and full of people.,contradiction
+6419839253.jpg#1r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/6419839253.jpg,Three young men are playing soccer in the beach wearing shorts,entailment
+3207264553.jpg#1r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3207264553.jpg,Some people are going to school.,contradiction
+242559369.jpg#1r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/242559369.jpg,Woman skinny-dipping in water.,entailment
+3634200287.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3634200287.jpg,The man is playing an instrument.,entailment
+2715746315.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2715746315.jpg,A man running through the jungle with a tray on his head.,contradiction
+6002955320.jpg#0r4e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/6002955320.jpg,A young man is on the coast.,entailment
+4981892541.jpg#2r2e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4981892541.jpg,A lady is with a little girl.,entailment
+2978540629.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2978540629.jpg,Three women are on a balloon ride.,entailment
+12974441.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/12974441.jpg,Person with wounds on their face.,entailment
+2326133103.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2326133103.jpg,Children are sketching and a lady observes art.,entailment
+1363343745.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1363343745.jpg,The little boy is riding a jet ski with his mom while two men watch.,contradiction
+4470667650.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4470667650.jpg,dog is chased by cat,contradiction
+152500619.jpg#2r5e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/152500619.jpg,A dark skinned male is wearing little clothing in the street.,entailment
+1405221276.jpg#3r2e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1405221276.jpg,there are dogs on a beach,entailment
+1003420127.jpg#1r4e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1003420127.jpg,A group of people are playing musical instruments in a house.,contradiction
+4549048831.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4549048831.jpg,People are crossing a finish line,contradiction
+3853580806.jpg#3r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3853580806.jpg,A guy is working with wood.,entailment
+721943065.jpg#3r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/721943065.jpg,Two small children s riding the read wagon at  Independence day,contradiction
+2249783869.jpg#1r4e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2249783869.jpg,Some women are knitting.,entailment
+59209034.jpg#4r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/59209034.jpg,The person is sleeping.,contradiction
+4607507068.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4607507068.jpg,A woman sitting indoors.,neutral
+372243070.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/372243070.jpg,A man is riding a unicycle.,contradiction
+3367053761.jpg#4r2c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3367053761.jpg,The person is playing a guitar.,contradiction
+2537683592.jpg#1r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2537683592.jpg,there is a curved wall and its open for tourists its perfect,neutral
+7162690187.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/7162690187.jpg,Two people are digging outside.,entailment
+2766765386.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2766765386.jpg,The surfer caught a wave.,entailment
+2899550625.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2899550625.jpg,Four workers are sitting on the sidewalk.,contradiction
+2185509485.jpg#1r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2185509485.jpg,A man is playing with his dog in the park.,contradiction
+4954585779.jpg#1r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4954585779.jpg,The people are watching tv on a couch.,contradiction
+7559183044.jpg#1r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/7559183044.jpg,The man is carrying heavy beams.,entailment
+1440465.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1440465.jpg,A group of women are sitting around a completely clean table.,contradiction
+3502897880.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3502897880.jpg,Two people watch a boy do some stunts with a skateboard,entailment
+7096517911.jpg#1r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/7096517911.jpg,"There are two people in this picture, and they are competing against each other.",entailment
+4834130686.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4834130686.jpg,The woman is swimming with sharks.,contradiction
+4725078805.jpg#0r3e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4725078805.jpg,A woman talks on the phone.,entailment
+3389707399.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3389707399.jpg,Two men shining shoes.,entailment
+1501297480.jpg#2r5c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1501297480.jpg,There is a child in long pants moving a watering can.,contradiction
+1501297480.jpg#3r3c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1501297480.jpg,The boy has long pants on.,contradiction
+49609558.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/49609558.jpg,The people have hats.,entailment
+92732320.jpg#0r3c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/92732320.jpg,The people are hanging up their clothes in the closet,contradiction
+396360611.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/396360611.jpg,A backpacker stands on a rocky bank.,entailment
+3413244848.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3413244848.jpg,The tennis player has recently touched the ball.,neutral
+303102907.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/303102907.jpg,Female students taking a test.,neutral
+3516267455.jpg#4r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3516267455.jpg,A dog is laying in the sand.,contradiction
+2437917174.jpg#1r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2437917174.jpg,A woman is dark-skinned,entailment
+2166946777.jpg#2r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2166946777.jpg,A school class visits the aquarium.,contradiction
+4938469951.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4938469951.jpg,Two women are jogging towards the elevator.,contradiction
+4938469951.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4938469951.jpg,The people pass by the stairs.,entailment
+99679241.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/99679241.jpg,The bird is small.,contradiction
+7148403727.jpg#1r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/7148403727.jpg,A man washing the car.,contradiction
+2917465129.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2917465129.jpg,People are getting on the boat.,entailment
+4429773871.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4429773871.jpg,Two girls get there picture taken,contradiction
+1733676900.jpg#1r5c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1733676900.jpg,A woman looks for a tiara.,contradiction
+7778073672.jpg#0r5c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/7778073672.jpg,Two women are sitting in a restaurant.,contradiction
+7778073672.jpg#0r3e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/7778073672.jpg,Three women playing frisbee,contradiction
+179829865.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/179829865.jpg,a waterskier in a blue life vest holds a line waiting to be pulled up from the water,entailment
+278002800.jpg#3r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/278002800.jpg,The man in the jacket is having a meal.,entailment
+4740349041.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4740349041.jpg,A woman is pulled over for a busted headlight.,contradiction
+870710405.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/870710405.jpg,there is a girl daydream of wearign tinkerbell jacket,neutral
+2891939693.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2891939693.jpg,The man has the phone.,entailment
+2773744784.jpg#4r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2773744784.jpg,singing man,neutral
+303103123.jpg#4r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/303103123.jpg,the students are at lunch,contradiction
+2173828253.jpg#0r2c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2173828253.jpg,A figure poses for the camera holding a gun inside.,contradiction
+2695298213.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2695298213.jpg,Children walk in a group.,entailment
+2695298213.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2695298213.jpg,The group is sitting in the rain.,contradiction
+3963616424.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3963616424.jpg,A vehicle transporting sacks travels on a road.,entailment
+3963616424.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3963616424.jpg,A blue car with bags of cargo on the roof is headed down a road.,entailment
+346073628.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/346073628.jpg,Two girls sit on a white chair,entailment
+3403797144.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3403797144.jpg,A surfer catching a swell.,entailment
+157613268.jpg#1r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/157613268.jpg,People are walking.,entailment
+5843713244.jpg#2r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/5843713244.jpg,2 men dancing,contradiction
+2809396455.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2809396455.jpg,A couple eating dinner.,contradiction
+2708744743.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2708744743.jpg,Nobody is jumping,entailment
+819526898.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/819526898.jpg,The worker wore a black shirt.,contradiction
+819526898.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/819526898.jpg,A man dressed in orange is moving quickly.,entailment
+2727062058.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2727062058.jpg,A coach is pointing off camera.,neutral
+3182492939.jpg#0r3e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3182492939.jpg,"Four people are shown in a gritty basement setting, two of which are wearing t-shirts against poverty.",entailment
+3827301652.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3827301652.jpg,The woman is wearing a purple coat.,contradiction
+3497590041.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3497590041.jpg,The female athlete is sitting.,contradiction
+2827549989.jpg#1r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2827549989.jpg,Two people jump off a boat.,entailment
+157308126.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/157308126.jpg,Everyone in the picture can swim at least a little.,entailment
+2197552440.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2197552440.jpg,Two people are playing tennis,entailment
+4459396414.jpg#1r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4459396414.jpg,A limo making it's way down a clear city street in a run down neighborhood.,entailment
+4459396414.jpg#4r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4459396414.jpg,A white Jeep runs off the road in the outback.,contradiction
+1806088665.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1806088665.jpg,A young boy is outdoors.,entailment
+3496410435.jpg#2r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3496410435.jpg,A man and women are riding a scooter.,contradiction
+3734864.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3734864.jpg,The construction workers are getting ready to go home.,contradiction
+249757010.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/249757010.jpg,A woman knits.,entailment
+3450087996.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3450087996.jpg,There are at least two people at a cafe.,entailment
+2231041390.jpg#1r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2231041390.jpg,A group of dogs are playing in a field.,contradiction
+1151466868.jpg#2r2e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1151466868.jpg,A girl having fun by the shore.,entailment
+3790208395.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3790208395.jpg,The elderly lady is dead in a coffin,contradiction
+3431792018.jpg#4r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3431792018.jpg,Four young boys are inside holding guns.,contradiction
+4829871518.jpg#2r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4829871518.jpg,The man is wearing a hat.,contradiction
+6861028771.jpg#3r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/6861028771.jpg,Wagons being pulled,entailment
+6861028771.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/6861028771.jpg,Newly fashioned wagons are great.,contradiction
+3452982513.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3452982513.jpg,A man in blue is doing a snowboarding trick.,entailment
+1403846093.jpg#1r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1403846093.jpg,She is a lizard person,contradiction
+3186556417.jpg#4r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3186556417.jpg,A boy is sleeping.,contradiction
+953941506.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/953941506.jpg,A cat walks on the beach.,contradiction
+2676184321.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2676184321.jpg,A person looks at a mountain.,neutral
+3933142540.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3933142540.jpg,A man is outside.,entailment
+4826988059.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4826988059.jpg,A man in a bathing suit,entailment
+3264337159.jpg#2r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3264337159.jpg,The dog is running in the summer sun.,contradiction
+14220927.jpg#2r2c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/14220927.jpg,The man is at the bowling alley.,contradiction
+14220927.jpg#4r5c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/14220927.jpg,A woman is looking outside.,contradiction
+2765815424.jpg#0r4c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2765815424.jpg,A taxi turns down a busy road.,contradiction
+2567962271.jpg#2r5c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2567962271.jpg,The truck is parked in the middle of the ocean.,contradiction
+459538095.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/459538095.jpg,Two men are doing an activity.,entailment
+1333788342.jpg#2r2e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1333788342.jpg,A boy is playing with a toy.,entailment
+232193739.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/232193739.jpg,The man is sitting on the ground.,contradiction
+224657109.jpg#2r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/224657109.jpg,The painters are wearing blue jumpsuits.,contradiction
+4557307607.jpg#2r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4557307607.jpg,Students in a hallway.,contradiction
+5942607581.jpg#1r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/5942607581.jpg,A guy in pants jumps from a high dive into a pool,entailment
+477429473.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/477429473.jpg,One of the wrestlers was arrested for drugs.,neutral
+233242340.jpg#1r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/233242340.jpg,The dog has only black hair.,contradiction
+15859665.jpg#3r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/15859665.jpg,A kid is at a playground.,entailment
+1673911365.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1673911365.jpg,A man gets ready to bungee jump.,contradiction
+3086810882.jpg#0r4c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3086810882.jpg,The dog is indoors.,contradiction
+4503699216.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4503699216.jpg,A woman is outside.,entailment
+4132372244.jpg#1r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4132372244.jpg,A man is riding a bicycle,contradiction
+112459543.jpg#0r3c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/112459543.jpg,The children are playing video games.,contradiction
+1517682494.jpg#2r3e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1517682494.jpg,There are two people present.,entailment
+3717267425.jpg#3r4c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3717267425.jpg,The people are planning a picnic.,contradiction
+21954377.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/21954377.jpg,Person stings while playing a guitar.,neutral
+1791491934.jpg#0r4c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1791491934.jpg,An asian man sets the timer on a hidden bomb.,contradiction
+319750026.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/319750026.jpg,actors chatting on a set,neutral
+416568642.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/416568642.jpg,A young girl and an adult are on the playground,contradiction
+7638876050.jpg#1r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/7638876050.jpg,a guitarist is in the spotlight,entailment
+4152834507.jpg#3r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4152834507.jpg,The lady in blue is sitting down.,entailment
+5682364328.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/5682364328.jpg,A guy on ice skates playing hockey with some friends on a frozen lake.,contradiction
+5682364328.jpg#2r3e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/5682364328.jpg,a man on a bike,entailment
+4014210988.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4014210988.jpg,The men are not empty-handed.,entailment
+2424111022.jpg#0r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2424111022.jpg,The small child was pushed down the hill by an otter.,contradiction
+2148663218.jpg#3r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2148663218.jpg,Four people are sitting.,entailment
+1313961775.jpg#0r4n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1313961775.jpg,The girl is looking over her life jacket to see if anyone is around.,neutral
+4970590451.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4970590451.jpg,A man is driving a motorcycle.,entailment
+3245460937.jpg#1r5n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3245460937.jpg,A boy prepares to hit a tennis ball over a net.,entailment
+3245460937.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3245460937.jpg,A boy is exercising.,entailment
+11551286.jpg#2r4n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/11551286.jpg,A baby is crying because he is hungry.,neutral
+2970183443.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2970183443.jpg,The dog plays football with his owners.,entailment
+2645724661.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2645724661.jpg,The woman is helping the child learn to read.,entailment
+322563288.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/322563288.jpg,A girl in the woods behind her house.,neutral
+405615014.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/405615014.jpg,A policeman is directing traffic around the accident scene.,neutral
+392467282.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/392467282.jpg,The brown dogs are from the same litter.,entailment
+4716376540.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4716376540.jpg,A woman wearing a helmet is pulling a motorcycle onto one wheel to do a trick.,entailment
+2881378816.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2881378816.jpg,While sitting near a street the man is wearing a blue shirt eating a hotdog,contradiction
+4764087782.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4764087782.jpg,A female wearing a yellow top walking down the sidewalk to work.,neutral
+3199895624.jpg#2r2n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3199895624.jpg,A couple sitting and having a conversation about life.,neutral
+269440642.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/269440642.jpg,Women are in a parade.,contradiction
+4893545292.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4893545292.jpg,A woman looks at a bird outside.,contradiction
+4978901111.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4978901111.jpg,A brothers teaches his younger sibling how to skate.,contradiction
+4918525947.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4918525947.jpg,A lady is dressed as a Geisha for a play.,neutral
+451547131.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/451547131.jpg,The man is returning home after a fun day of surfing.,neutral
+451547131.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/451547131.jpg,The waves are not large enough for surfing at this time of day.,neutral
+3734864.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3734864.jpg,A crane is lifting people,entailment
+2382950929.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2382950929.jpg,A woman is sitting down,contradiction
+7475756284.jpg#1r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/7475756284.jpg,A woman is upside down.,entailment
+2721786210.jpg#3r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2721786210.jpg,A group of men are on a walk together.,entailment
+40631955.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/40631955.jpg,People have gathered to get ready to gather later.,neutral
+2063399864.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2063399864.jpg,Mother with her young boys fishing,contradiction
+393043864.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/393043864.jpg,There is a fresh produce stand.,entailment
+188576164.jpg#4r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/188576164.jpg,Two men talking,entailment
+4631131293.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4631131293.jpg,Women are wearing matching outfits.,entailment
+4950818767.jpg#0r2e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4950818767.jpg,A man stands near a building with his hand on his head.,entailment
+2417623030.jpg#0r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2417623030.jpg,Four people pose for a picture.,entailment
+1066831905.jpg#2r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1066831905.jpg,An older man is getting assistance to bend down and look at plants.,entailment
+4633066958.jpg#1r1e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4633066958.jpg,Three children in a swimming pool.,entailment
+1394276597.jpg#0r3e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1394276597.jpg,Women carry flags.,neutral
+1234206849.jpg#4r2e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1234206849.jpg,"There are two woman in total, both wearing floral hats of some kind",entailment
+1690926854.jpg#1r3e,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1690926854.jpg,The members were female.,entailment
+226687996.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/226687996.jpg,A woman is planting apple trees in Kentucky wearing work clothing.,contradiction
+2293149170.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2293149170.jpg,The child is operating a welder.,contradiction
+4942199590.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4942199590.jpg,Two children play on the sidewalk.,contradiction
+5171155099.jpg#0r4c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/5171155099.jpg,A man chases a run away horse through a crowd.,contradiction
+459996676.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/459996676.jpg,There are four people,contradiction
+3546720729.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3546720729.jpg,Two men watching a concert.,contradiction
+2705922624.jpg#1r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2705922624.jpg,children are running away form each other,contradiction
+2327240505.jpg#1r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2327240505.jpg,The boy is riding a bicycle.,contradiction
+3163018251.jpg#1r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3163018251.jpg,A woman doesn't laugh,contradiction
+3326249355.jpg#3r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3326249355.jpg,The people are walking inside the church.,contradiction
+8034139464.jpg#0r4c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/8034139464.jpg,A crowd of surfers are watching a shark.,contradiction
+2567962271.jpg#4r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2567962271.jpg,the truck is inside,contradiction
+3976461042.jpg#2r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3976461042.jpg,A farmer in a stable feeding his horses.,contradiction
+1313961775.jpg#1r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1313961775.jpg,a boy waits in a boat,contradiction
+6848969811.jpg#4r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/6848969811.jpg,Some people are reading books in a chair.,contradiction
+3335322101.jpg#4r1c,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3335322101.jpg,There are people eating worms.,contradiction
+2842439618.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2842439618.jpg,Two surfers out surfing in the early morning.,neutral
+4274214534.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4274214534.jpg,A young woman is ice skating with her german shepard.,contradiction
+3595080592.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3595080592.jpg,Teachers helping students.,contradiction
+2856524322.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2856524322.jpg,A man is trying to qualify for the finals of the BMX run.,neutral
+2324804923.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2324804923.jpg,Deleon is speaking about sex.,neutral
+7173939318.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/7173939318.jpg,people are starting and leaving a fishing boat tour,neutral
+3201517121.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3201517121.jpg,Two soldiers fighting after an argument.,neutral
+4494095559.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4494095559.jpg,A skateboarder is performing tricks.,neutral
+2249682069.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2249682069.jpg,The man enjoys knitting.,neutral
+345852737.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/345852737.jpg,A woman is pushing her cart to her car so her kids can load the groceries.,neutral
+2874876837.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2874876837.jpg,Barry is enjoying his new trampoline,neutral
+2515822745.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2515822745.jpg,The people are performing for an audience.,neutral
+2363540508.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2363540508.jpg,A young girl is playing at the park.,neutral
+536495604.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/536495604.jpg,The woman likes holding the baby.,neutral
+2728607980.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2728607980.jpg,The people are waiting to watch a musical act perform.,neutral
+6059154572.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/6059154572.jpg,A surfer jumps during a contest.,neutral
+4565084634.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4565084634.jpg,A couple heads home after buying food for dinner.,neutral
+1606988704.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1606988704.jpg,The children are siblings.,neutral
+5732777684.jpg#0r5n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/5732777684.jpg,The view is of children walking to school in the morning.,neutral
+7129695767.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/7129695767.jpg,The man is rappeling for the first time.,neutral
+2700788458.jpg#3r5n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2700788458.jpg,The man and woman are in the wooded area looking for their dog.,neutral
+6693881913.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/6693881913.jpg,Hockey players fight over a woman.,neutral
+91875542.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/91875542.jpg,The elderly woman volunteers to use the antique cash register.,neutral
+2167644298.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2167644298.jpg,A man all dressed up for dinner.,neutral
+5896386113.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/5896386113.jpg,A tall woman hanging whites.,neutral
+86112875.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/86112875.jpg,A mother and her sister work on a wooden swingset.,neutral
+6870444330.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/6870444330.jpg,A man is singing for a crowd.,neutral
+707941195.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/707941195.jpg,The animal is domesticated.,neutral
+2255266906.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2255266906.jpg,A dove is in a tree that is dying.,neutral
+2637510448.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2637510448.jpg,The child was skiing down the snowy slopes in Switzerland,neutral
+4052515931.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4052515931.jpg,The man is flirting with the woman.,neutral
+1157215900.jpg#0r4n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1157215900.jpg,The woman is selling bread.,neutral
+4494095559.jpg#1r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4494095559.jpg,A man is zooming past a bench on a skateboard.,neutral
+2786245676.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2786245676.jpg,A boy holding a new toy.,neutral
+3079917032.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3079917032.jpg,The three women are all related.,neutral
+2327240505.jpg#4r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/2327240505.jpg,A boy is fighting with a girl on a skateboard,neutral
+76466808.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/76466808.jpg,Two men are about to get on a plane.,neutral
+3090398639.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3090398639.jpg,The riders are on vacation.,neutral
+4474749623.jpg#3r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4474749623.jpg,Two people are walking in the rain.,neutral
+4925573161.jpg#0r3n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4925573161.jpg,A person is training for a bike race,neutral
+312788070.jpg#0r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/312788070.jpg,The soccer player was waiting to play a game.,neutral
+4439654945.jpg#0r2n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4439654945.jpg,Some children are learning how to play dead.,neutral
+4851524954.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/4851524954.jpg,A woman is lost in thought as she waits for food to arrive.,neutral
+1558753996.jpg#4r3n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/1558753996.jpg,The man is playing his favorite song.,neutral
+492587970.jpg#2r1n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/492587970.jpg,The men are looking in mirrors.,neutral
+3217187564.jpg#1r4n,https://raw.githubusercontent.com/virginie-do/flickr30k_images_dev_test/master/3217187564.jpg,One of the animals are about to win the race.,neutral
