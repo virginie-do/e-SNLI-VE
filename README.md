@@ -6,7 +6,7 @@ This repository contains the dataset for our paper:
 
 ## Dataset
 
-The dataset extends both [SNLI-VE](https://github.com/necla-ml/SNLI-VE) [2] and [e-SNLI](https://github.com/OanaMariaCamburu/e-SNLI) [3]
+The e-SNLI-VE-2.0 dataset is located in the folder `data/`. It extends both [SNLI-VE](https://github.com/necla-ml/SNLI-VE) [2] and [e-SNLI](https://github.com/OanaMariaCamburu/e-SNLI) [3]
 
 Due to the Github size restrictions, the training set is split in two files, please simply merge them.
 
