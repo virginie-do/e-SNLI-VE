@@ -4,6 +4,8 @@ This repository contains the dataset for our paper:
 
 * e-SNLI-VE-2.0: Corrected Visual Textual Entailment with Natural Language Explanations [[arXiv]](http://arxiv.org/abs/2004.03744) [1]
 
+It will be presented at the 2020 CVPR workshop on [Fair, Data-efficient and Trusted Computer Vision](https://fadetrcv.github.io/).
+
 ## Dataset
 
 The e-SNLI-VE-2.0 dataset is located in the folder `data/`. It extends both [SNLI-VE](https://github.com/necla-ml/SNLI-VE) [2] and [e-SNLI](https://github.com/OanaMariaCamburu/e-SNLI) [3]
