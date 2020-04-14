@@ -10,6 +10,8 @@ The e-SNLI-VE-2.0 dataset is located in the folder `data/`. It extends both [SNL
 
 Due to the Github size restrictions, the training set is split in two files, please simply merge them.
 
+![Example from e-SNLI-VE.2.0](https://github.com/virginie-do/e-SNLI-VE/raw/master/e-snli-ve-dog-example.jpg)
+
 ## Bibtex
 
 If you use this dataset in your work, please cite our paper:
