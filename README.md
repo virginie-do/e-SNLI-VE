@@ -2,9 +2,9 @@
 
 This repository contains the dataset for our paper: 
 
-* e-SNLI-VE-2.0: Corrected Visual Textual Entailment with Natural Language Explanations [[arXiv]](http://arxiv.org/abs/2004.03744) [1]
+* e-SNLI-VE-2.0: Corrected Visual-Textual Entailment with Natural Language Explanations [[arXiv]](http://arxiv.org/abs/2004.03744) [1]
 
-It will be presented at the 2020 CVPR workshop on [Fair, Data-efficient and Trusted Computer Vision](https://fadetrcv.github.io/).
+It will be presented at the 2020 CVPR workshop on [Fair, Data Efficient and Trusted Computer Vision](https://fadetrcv.github.io/).
 
 ## Dataset
 
@@ -32,7 +32,7 @@ If you use this dataset in your work, please cite our paper:
 
 ## References
 
-[1] Do, V., Camburu, O., Akata, Z., & Lukasiewicz, T. (2020). e-SNLI-VE-2.0: Corrected Visual Textual Entailment with Natural Language Explanations. arXiv preprint arXiv:2004.03744.
+[1] Do, V., Camburu, O., Akata, Z., & Lukasiewicz, T. (2020). e-SNLI-VE-2.0: Corrected Visual-Textual Entailment with Natural Language Explanations. arXiv preprint arXiv:2004.03744.
 
 [2] Camburu, O. M., Rocktäschel, T., Lukasiewicz, T., & Blunsom, P. (2018). e-SNLI: Natural Language Inference with Natural Language Explanations. In Advances in Neural Information Processing Systems (pp. 9539-9549).
 
