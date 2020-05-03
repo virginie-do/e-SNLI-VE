@@ -1,6 +1,6 @@
 # e-SNLI-VE-2.0
 
-This repository contains the dataset for our paper: 
+This repository contains the dataset and code for our paper: 
 
 * e-SNLI-VE-2.0: Corrected Visual-Textual Entailment with Natural Language Explanations [[arXiv]](http://arxiv.org/abs/2004.03744) [1]
 
