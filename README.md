@@ -27,7 +27,7 @@ See this [repository](https://github.com/claudiogreco/coling18-gte) for more det
 ~~~
 python train_explain.py --train_filename='./data/e_vsnli_train.tsv'  --dev_filename='./data/e_vsnli_dev.tsv' --vectors_filename="./data/glove.840B.300d.txt" --img_names_filename='./data/image_features/flickr30k_resnet101_bottom_up_img_names.json' --img_features_filename='./data/image_features/flickr30k_resnet101_bottom_up_img_features.npy' --model_save_filename='./models/e_vsnli' --batch_size=100 --max_vocab=5000 --alpha=0.8 --buffer_size=300000
 
-source switch-cuda 10.0 && export CUDA_VISIBLE_DEVICES=1 && python eval_explain.py --test_filename='./data/e_vsnli_test.tsv' --model_filename='./models/e_vsnli' --img_names_filename='./data/image_features/flickr30k_resnet101_bottom_up_img_names.json' --img_features_filename='./data/image_features/flickr30k_resnet101_bottom_up_img_features.npy' --result_filename="./models/result_e_vsnli"
+python eval_explain.py --test_filename='./data/e_vsnli_test.tsv' --model_filename='./models/e_vsnli' --img_names_filename='./data/image_features/flickr30k_resnet101_bottom_up_img_names.json' --img_features_filename='./data/image_features/flickr30k_resnet101_bottom_up_img_features.npy' --result_filename="./models/result_e_vsnli"
 ~~~
 
 ## Bibtex
