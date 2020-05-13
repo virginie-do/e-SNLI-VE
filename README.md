@@ -18,8 +18,7 @@ Due to the Github size restrictions, the training set is split in two files, ple
 
 ### Prerequisites
 1. Python 3.7 / Tensorflow 1.14
-2. Flickr30k ResNet-101 / Fast R-CNN [feature files](https://drive.google.com/file/d/1-Jq5FFByurew-QvwTMz59Llg-2j00xTv/view?usp=sharing) and [image_names]
-(https://drive.google.com/file/d/0B40JtotizQfxMG81TVoteHlKdFU/view) 
+2. Flickr30k ResNet-101 / Fast R-CNN [feature files](https://drive.google.com/file/d/1-Jq5FFByurew-QvwTMz59Llg-2j00xTv/view?usp=sharing) and [image_names](https://drive.google.com/file/d/0B40JtotizQfxMG81TVoteHlKdFU/view) 
 3. [Glove embeddings](http://nlp.stanford.edu/data/glove.840B.300d.zip)
 
 See this [repository](https://github.com/claudiogreco/coling18-gte) for more details.
