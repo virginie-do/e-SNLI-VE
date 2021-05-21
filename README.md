@@ -2,7 +2,7 @@
 
 **This repository is deprecated. The relevant version of the dataset is available at: https://github.com/maximek3/e-ViL.**
 
-**Check out our new paper: e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks (https://arxiv.org/abs/2105.03761)**
+**Check out our new paper: *e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks* (https://arxiv.org/abs/2105.03761)**
 
 
 # e-SNLI-VE
