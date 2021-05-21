@@ -1,18 +1,25 @@
-# e-SNLI-VE-2.0
+# DEPRECATED
+
+**This repository is deprecated. The relevant version of the dataset is available at: https://github.com/maximek3/e-ViL.**
+
+**Check out our new paper: e-ViL: A Dataset and Benchmark for Natural Language Explanations in Vision-Language Tasks (https://arxiv.org/abs/2105.03761)**
+
+
+# e-SNLI-VE
 
 This repository contains the dataset and code for our paper: 
 
-* e-SNLI-VE-2.0: Corrected Visual-Textual Entailment with Natural Language Explanations [[arXiv]](http://arxiv.org/abs/2004.03744) [1]
+* e-SNLI-VE: Corrected Visual-Textual Entailment with Natural Language Explanations [[arXiv]](http://arxiv.org/abs/2004.03744) [1]
 
 It will be presented at the 2020 CVPR workshop on [Fair, Data Efficient and Trusted Computer Vision](https://sites.google.com/view/fair-data-efficient-trusted-cv/home).
 
 ## Dataset
 
-The e-SNLI-VE-2.0 dataset is located in the folder `data/`. It extends both [SNLI-VE](https://github.com/necla-ml/SNLI-VE) [2] and [e-SNLI](https://github.com/OanaMariaCamburu/e-SNLI) [3]
+The e-SNLI-VE dataset is located in the folder `data/`. It extends both [SNLI-VE](https://github.com/necla-ml/SNLI-VE) [2] and [e-SNLI](https://github.com/OanaMariaCamburu/e-SNLI) [3]
 
 Due to the Github size restrictions, the training set is split in two files, please simply merge them.
 
-![Example from e-SNLI-VE.2.0](https://github.com/virginie-do/e-SNLI-VE/raw/master/e-snli-ve-dog-example.jpg)
+![Example from e-SNLI-VE](https://github.com/virginie-do/e-SNLI-VE/raw/master/e-snli-ve-dog-example.jpg)
 
 ## Code
 
