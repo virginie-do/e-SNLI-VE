@@ -21,6 +21,8 @@ Due to the Github size restrictions, the training set is split in two files, ple
 
 ![Example from e-SNLI-VE](https://github.com/virginie-do/e-SNLI-VE/raw/master/e-snli-ve-dog-example.jpg)
 
+*The dataset was previously called "e-SNLI-VE-2.0" which we changed to "e-SNLI-VE" to avoid confusions.*
+
 ## Code
 
 ### Prerequisites
@@ -43,7 +45,7 @@ If you use this dataset in your work, please cite our paper:
 
 ```
 @misc{do2020esnlive20,
-    title={e-SNLI-VE-2.0: Corrected Visual-Textual Entailment with Natural Language Explanations},
+    title={e-SNLI-VE: Corrected Visual-Textual Entailment with Natural Language Explanations},
     author={Virginie Do and Oana-Maria Camburu and Zeynep Akata and Thomas Lukasiewicz},
     year={2020},
     eprint={2004.03744},
